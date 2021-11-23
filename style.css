@@ -1,0 +1,27 @@
+body {background-color: blue;}
+
+#header {
+    height: 50px;
+    background-color: red;
+}
+
+#slider {
+    height: 250px;
+    background-color: yellow;
+}   
+
+.artikel {
+    height: 350px;
+    background-color: green;
+}
+
+.artikel_left {
+    height: 350px;
+    background-color: blue;
+}
+
+#footer {
+    width: 1550px;
+    height: 100px;
+    background-color: violet;
+}
